@@ -2,8 +2,6 @@
 //
 
 #include <iostream>
-#include "Console.h"
-#include "Game.h"
 #include "GameManager.h"
 
 bool end = false;
