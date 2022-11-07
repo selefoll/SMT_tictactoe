@@ -13,6 +13,6 @@ void main(void)
     
     while(end == false){
         
-        end=Play();
+        end = Play();
     }
 }
