@@ -1,6 +1,6 @@
 #pragma once
 
-#include "GameDefinition.h"
+#include "../GameDefinition.h"
 
 
 void GameInitialization();

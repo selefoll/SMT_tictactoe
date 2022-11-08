@@ -1,7 +1,8 @@
 #pragma once
 
-#include "Console.h"
-#include "Game.h"
+#include "Console/Console.h"
+#include "Game/Game.h"
+
 
 void IsPositionAvailable();
 
