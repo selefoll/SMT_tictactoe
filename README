@@ -1,0 +1,10 @@
+The game has been created using VC2022.
+From main.cpp the game is initialized and then GameManager interacts with the console in the Console folder and the Game in the game folder.
+
+The console and the game are completely separated.
+
+Everything was tested for a 3 by 3 Tic-Tac-Toe but written to be possibly extend to a n by n Tic-Tac-Toe.
+
+The main opens a console in which everything is explained on how to play the game.
+
+It took me ~1:30 to code a compiling code that work and ~2h to optimize, take care of special cases and clean the code.
